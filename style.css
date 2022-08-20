@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap");
+.custom-text {
+  font-family: "Prompt", sans-serif;
+}
+.upper-text {
+  text-transform: uppercase;
+}
